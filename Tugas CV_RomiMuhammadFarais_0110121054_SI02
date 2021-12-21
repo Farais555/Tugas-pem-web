@@ -1,0 +1,99 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <style>
+        body{
+            background-color: rosybrown;
+        }
+        ul{
+            color: seashell;
+            font-size: 16px;
+        }
+        ol{
+        	color: seashell;
+        	font-size: 16px;
+        }
+        dl{
+        	color: seashell;
+        }
+        h2{
+        	color: red;
+        }
+        h3{
+        	color: blue;
+        }
+    </style>
+</head>
+
+<!--bagian isi-->
+<body>
+    <h2>Biodata Pribadi</h2>
+    <div style="display: inline; float : right; margin-right :150px; margin-top:-15px;">
+            <img src="romi.jpg" width="120px">
+            
+        </div>
+    <div>
+        <ul>
+            <li>Nama : Romi Muhammad Farais</li>
+            <br/>
+            <li>Tempat, tanggal lahir : Jakarta, 5 Januari 2002</li>
+            <br/>
+            <li>Alamat : Kp.Belimbing sawah No.57 004/003, Depok, Pancoran Mas, Kota Depok, Jawa barat</li>
+            <br/>
+            <li>E-mail : romi21054si@student.nurulfikri.ac.id</li>
+            <br/>
+        </ul>
+    </div>
+    <hr/>
+
+    <!--bio pendidikan-->
+    <h2>Biodata Pendidikan</h2>
+    <div>
+    	<h3>Pendidikan Formal</h3>
+    	<ul>
+    		<li>Sekolah Dasar : SDN Depok 4</li>
+    		<br/>
+    		<li>Sekolah Menengah Pertama : SMP Budi Utomo Perak Jombang</li>
+    		<br/>
+    		<li>Sekolah Menengah Atas : SMA Budi Utomo Perak Jombang</li>
+    		<br/>
+    		<li>Perguruan Tinggi : STT Nurul Fikri</li>
+    	</ul>
+    	<h3>Pendidikan Non Formal</h3>
+    	<ul>
+    		<li>Pondok Pesantren Gading Mangu Perak Jombang (2014-2020)</li>
+    		<br/>
+    		<li>Khursus Bahasa Inggris di Pare (2019)</li>
+    		<br/>
+    	</ul>
+    </div>
+    <hr/>
+
+    <!--pengalaman organisasi-->
+    <h2>Pengalaman Organisasi</h2>
+    <div>
+    	<dl>
+    		<dt><i><b>Osis</b></i></dt>
+    			<dd>pernah menjabat sebagai <b><i>Osis</i></b> semasa SMP dan SMA</dd>
+    		<dt><i><b>Pengurus Pondok</b></i></dt>
+    			<dd>pernah menjabat sebagai <b><i>Pengurus Pondok</i></b> sebagai anggota dapur pondok</dd>
+    	</dl>
+    </div>
+    <hr/>
+    <h2>Hobi</h2>
+    <div>
+    <ol>
+    	<li>Bermain Game</li>
+    	<br/>
+    	<li>Membaca Novel, Komik, dan Buku Sejarah</li>
+    	<br/>
+    	<li>Menonton Film</li>
+    </ol>
+	</div>
+	<p style="color: maroon"><strong>Kata-kata Bijak Alucard sang Demon Hunter</strong></p>
+	<blockquote cite=https://www.bola.com/ragam/kata-hero-mobile-legends-alucard-demon-hunter-dari-kekaisaran-moniyan><i>Nothing last's forever, we can change the future</i>
+	<p style="color: red">Tidak ada yang abadi, kita bisa mengubah masa depan</p></blockquote>
+</html>
